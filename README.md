@@ -8,10 +8,10 @@ Homepage of Rode.
 - Multiple Footers for different devices
 
 ## Deployed link
-- [DEPLOYED WEBPAGE]()
+- [DEPLOYED WEBPAGE](https://rode-homepage.netlify.app/)
 
 
 ## Screenshot
-![deployerlink](./rode%20homepage%20ss.png)
+![deployerlink](./rode%20homepage%20%20ss.png)
 
 
